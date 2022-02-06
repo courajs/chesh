@@ -2,7 +2,7 @@
   "name": "chesh",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for chesh goes here",
+  "description": "An app for exploring chess positions and games",
   "repository": "",
   "license": "MIT",
   "author": "",
